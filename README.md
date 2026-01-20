@@ -23,6 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Priya-8093&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-8093&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Priya-8093&theme=dark&hide_border=false)
+
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/priyadarshini-singh-948a18211))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/priyadarshini-singh-948a18211))
