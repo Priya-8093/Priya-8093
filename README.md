@@ -21,8 +21,10 @@
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-8093&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-8093&layout=compact&theme=radical) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priya-8093&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-8093&layout=compact&theme=radical" width="48%" />
+</p>
 
 ## 🌐 Connect with Me
 
